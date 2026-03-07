@@ -1,5 +1,6 @@
 # Human-robot-partner-juggling
-This is the repo to the corresponding paper "Catch, Throw, Repeat: Three-Ball Human–Robot Partner Juggling"
+This is the repo to the corresponding paper 
+"Catch, Throw, Repeat: Planning for Human–Robot Partner Juggling"
 The repo contains code and the project page of the Human-Robot Partner Juggling project.
 
 ![Juggling Demo](partner_3_ball_scene_anonymous.png)
